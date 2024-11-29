@@ -4,7 +4,7 @@ sidebar_position: 0
 ---
 
 # Pre-requisites
-
+aa
 In order to make valuable use of NSPanel Manager you must full-fill the following requirements:
 
 * ✅ Own at least one NSPanel (be careful, all NSPanel are not supported, take a look at [supported devices](./supported-devices))
