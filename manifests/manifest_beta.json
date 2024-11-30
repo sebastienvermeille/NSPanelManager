@@ -1,0 +1,10 @@
+{
+  "name": "NSPanelManager NSPanel Firmware",
+  "version": "beta",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [{ "path": "https://github.com/NSPManager/NSPanelManager/raw/refs/heads/beta/docker/web/nspanelmanager/merged_flash.bin", "offset": 0 }]
+    }
+  ]
+}
